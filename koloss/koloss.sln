@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koloss", "koloss\koloss.csproj", "{CA9297AA-20BA-471C-A94C-B2846F3FB48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9297AA-20BA-471C-A94C-B2846F3FB48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9297AA-20BA-471C-A94C-B2846F3FB48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9297AA-20BA-471C-A94C-B2846F3FB48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9297AA-20BA-471C-A94C-B2846F3FB48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {221B01A3-17E9-4928-AEB9-A45420F681F4}
+	EndGlobalSection
+EndGlobal
