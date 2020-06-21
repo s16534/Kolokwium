@@ -46,7 +46,7 @@ namespace koloss.Controllers
             IActionResult response;
             try
             {
-                response = Ok(_service.UpdatePerformanceDate(artistId));
+                response = Ok(_service.UpdatePerformanceDate(artistId, eventId, newPerformanceDate));
 
             }
             catch (NoArtistException e)
